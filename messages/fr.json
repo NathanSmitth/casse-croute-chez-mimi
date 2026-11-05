@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "title": "Casse-Croûte chez Mimi — Poutine & déjeuners à Thetford Mines",
+    "description": "Poutine maison, déjeuners copieux et menu du jour à Thetford Mines (Robertsonville). {delivery, select, yes {Sur place, pour emporter ou en livraison} other {Sur place ou pour emporter}} : (418) 338-0319.",
+    "ogAlt": "Casse-Croûte chez Mimi — poutine et déjeuners à Thetford Mines",
+    "ogTagline": "Poutine, déjeuners & menu du jour",
+    "ogLocation": "Robertsonville · Thetford Mines, QC"
+  },
+  "nav": {
+    "menu": "Menu",
+    "dishes": "Plats",
+    "findUs": "Nous trouver"
+  },
+  "header": {
+    "skip": "Aller au contenu",
+    "mainNav": "Navigation principale",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "call": "Appeler",
+    "callAria": "Appeler le Casse-Croûte chez Mimi au {phone}",
+    "facebook": "Casse-Croûte chez Mimi sur Facebook",
+    "language": "Choisir la langue"
+  },
+  "callBar": {
+    "label": "Appeler"
+  },
+  "days": {
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche"
+  },
+  "daysShort": {
+    "monday": "Lun.",
+    "tuesday": "Mar.",
+    "wednesday": "Mer.",
+    "thursday": "Jeu.",
+    "friday": "Ven.",
+    "saturday": "Sam.",
+    "sunday": "Dim."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Un classique de Thetford Mines",
+      "heading": "Casse-Croûte chez Mimi",
+      "tagline": "Poutine, déjeuners & menu du jour. Ambiance conviviale.",
+      "ctaMenu": "Voir le menu",
+      "ctaCall": "Appeler",
+      "imageAlt": "Façade du Casse-Croûte chez Mimi sur le boulevard Frontenac Est, secteur Robertsonville à Thetford Mines",
+      "rating": "{rating} sur Google · {count} avis",
+      "services": "Salle à manger · Pour emporter{delivery, select, yes { · Livraison} other {}}",
+      "area": "Robertsonville, Thetford Mines"
+    },
+    "dishes": {
+      "eyebrow": "De la cuisine à Mimi",
+      "heading": "Nos incontournables",
+      "intro": "Des portions généreuses, des frites coupées sur place et une sauce brune comme à la maison.",
+      "cta": "Voir le menu complet",
+      "listLabel": "Plats signature",
+      "items": {
+        "poutineClassique": {
+          "name": "Poutine classique",
+          "blurb": "Frites maison, fromage en grains, sauce brune.",
+          "alt": "Poutine classique du Casse-Croûte chez Mimi : frites maison, fromage en grains et sauce brune"
+        },
+        "guedilleHomard": {
+          "name": "Guédille au homard",
+          "blurb": "Du bon homard dans un pain grillé au beurre.",
+          "alt": "Guédille au homard servie dans un pain hot-dog grillé au beurre, chez Mimi à Thetford Mines"
+        },
+        "dejeunerClassique": {
+          "name": "Déjeuner classique",
+          "blurb": "Œufs, bacon, rôties et patates déjeuner.",
+          "alt": "Déjeuner classique québécois : deux œufs, bacon, rôties et patates déjeuner"
+        },
+        "poutineItalienne": {
+          "name": "Poutine italienne",
+          "blurb": "Avec notre sauce à spaghetti maison.",
+          "alt": "Poutine italienne nappée de sauce à spaghetti maison au Casse-Croûte chez Mimi"
+        },
+        "menuDuJour": {
+          "name": "Menu du jour",
+          "blurb": "Soupe, plat et dessert, du lundi au vendredi.",
+          "alt": "Menu du jour du Casse-Croûte chez Mimi : soupe maison et plat chaud de la semaine"
+        },
+        "fritesMaison": {
+          "name": "Frites maison",
+          "blurb": "Coupées ici, dorées à point.",
+          "alt": "Frites maison dorées coupées sur place au Casse-Croûte chez Mimi"
+        }
+      }
+    },
+    "reviews": {
+      "eyebrow": "Les gens d'ici en parlent",
+      "heading": "Ce que nos clients disent",
+      "rating": "{rating} sur 5",
+      "count": "{count} avis Google",
+      "source": "Avis Google",
+      "localGuide": "Local Guide",
+      "listLabel": "Avis de clients",
+      "seeAll": "Voir tous les avis sur Google",
+      "ctaHeading": "Une p'tite faim?",
+      "ctaBody": "Appelez pour commander {delivery, select, yes {pour emporter ou en livraison} other {pour emporter}}. On s'occupe du reste.",
+      "ctaButton": "Appeler"
+    },
+    "findUs": {
+      "eyebrow": "Passez nous voir",
+      "heading": "Nous trouver",
+      "hoursLabel": "Heures d'ouverture",
+      "slipTitle": "Bon de commande",
+      "slipNumber": "Nº 0319",
+      "slipServer": "Serveuse : Mimi",
+      "today": "Aujourd'hui",
+      "openNow": "Ouvert en ce moment",
+      "closedNow": "Fermé en ce moment",
+      "closed": "Fermé",
+      "hoursTbc": "Heures à confirmer — appelez-nous avant de passer.",
+      "slipThanks": "Merci pis à la prochaine!",
+      "locationLabel": "Adresse",
+      "neighbourhood": "Secteur Robertsonville",
+      "directions": "Itinéraire",
+      "mapTitle": "Carte : Casse-Croûte chez Mimi, 3421 boul. Frontenac Est, Thetford Mines",
+      "callLabel": "Pour commander",
+      "callBody": "{delivery, select, yes {Salle à manger, pour emporter et livraison} other {Salle à manger et pour emporter}}",
+      "callCta": "Appeler",
+      "callNote": "Pas de commande en ligne : un coup de fil, pis c'est parti!"
+    }
+  },
+  "menuPage": {
+    "metaTitle": "Menu – poutines et déjeuners",
+    "metaDescription": "Le menu du Casse-Croûte chez Mimi à Thetford Mines : déjeuners, poutines, menu du jour et guédilles au homard. Commandez au (418) 338-0319.",
+    "eyebrow": "Fait maison à Robertsonville",
+    "heading": "Notre menu",
+    "subheading": "Déjeuners, poutines, menu du jour et guédilles. Pour commander, un simple appel suffit.",
+    "categoriesLabel": "Catégories du menu",
+    "placeholderNote": "Menu et prix à titre indicatif. Appelez-nous pour les prix du jour.",
+    "disclaimer": "Les prix peuvent changer sans préavis. Taxes en sus.",
+    "ctaHeading": "Prêt à commander?",
+    "ctaBody": "Pas de commande en ligne ici : appelez-nous et on prépare ça {delivery, select, yes {pour emporter ou en livraison} other {pour emporter}}.",
+    "ctaButton": "Appeler"
+  },
+  "marquee": {
+    "pause": "Mettre le défilement en pause",
+    "play": "Reprendre le défilement"
+  },
+  "footer": {
+    "tagline": "Poutine, déjeuners et bonne humeur, au cœur de Robertsonville.",
+    "explore": "Explorer",
+    "hours": "Heures",
+    "findUs": "Nous trouver",
+    "directions": "Itinéraire →",
+    "builtBy": "Conçu avec soin par"
+  },
+  "notFound": {
+    "metaTitle": "Page introuvable",
+    "eyebrow": "Erreur 404",
+    "heading": "Oups! Cette page est partie avec les frites.",
+    "body": "La page que vous cherchez n'existe pas ou a été déplacée. La poutine, elle, est toujours là.",
+    "home": "Retour à l'accueil",
+    "menu": "Voir le menu",
+    "call": "Appeler"
+  }
+}

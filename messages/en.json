@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "title": "Casse-Croûte chez Mimi — Poutine & Breakfast in Thetford Mines",
+    "description": "Homemade poutine, hearty breakfasts and a daily special in Thetford Mines (Robertsonville). {delivery, select, yes {Dine in, take out or delivery} other {Dine in or take out}}. Call (418) 338-0319.",
+    "ogAlt": "Casse-Croûte chez Mimi — poutine and breakfast in Thetford Mines",
+    "ogTagline": "Poutine, breakfast & daily specials",
+    "ogLocation": "Robertsonville · Thetford Mines, QC"
+  },
+  "nav": {
+    "menu": "Menu",
+    "dishes": "Dishes",
+    "findUs": "Find us"
+  },
+  "header": {
+    "skip": "Skip to content",
+    "mainNav": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "call": "Call",
+    "callAria": "Call Casse-Croûte chez Mimi at {phone}",
+    "facebook": "Casse-Croûte chez Mimi on Facebook",
+    "language": "Choose language"
+  },
+  "callBar": {
+    "label": "Call now"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "daysShort": {
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat",
+    "sunday": "Sun"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "A Thetford Mines classic",
+      "heading": "Casse-Croûte chez Mimi",
+      "tagline": "Poutine, breakfast & daily specials. Warm, friendly atmosphere.",
+      "ctaMenu": "See the menu",
+      "ctaCall": "Call",
+      "imageAlt": "Exterior of Casse-Croûte chez Mimi on Boulevard Frontenac East, Robertsonville area of Thetford Mines",
+      "rating": "{rating} on Google · {count} reviews",
+      "services": "Dine-in · Takeout{delivery, select, yes { · Delivery} other {}}",
+      "area": "Robertsonville, Thetford Mines"
+    },
+    "dishes": {
+      "eyebrow": "From Mimi's kitchen",
+      "heading": "Local favourites",
+      "intro": "Generous portions, fries cut right here and brown gravy just like home.",
+      "cta": "See the full menu",
+      "listLabel": "Signature dishes",
+      "items": {
+        "poutineClassique": {
+          "name": "Classic poutine",
+          "blurb": "Homemade fries, cheese curds, brown gravy.",
+          "alt": "Classic poutine at Casse-Croûte chez Mimi: homemade fries, cheese curds and brown gravy"
+        },
+        "guedilleHomard": {
+          "name": "Lobster roll",
+          "blurb": "Real lobster in a butter-toasted bun.",
+          "alt": "Lobster roll (guédille au homard) in a butter-toasted bun at Mimi's in Thetford Mines"
+        },
+        "dejeunerClassique": {
+          "name": "Classic breakfast",
+          "blurb": "Eggs, bacon, toast and home fries.",
+          "alt": "Classic Quebec breakfast: two eggs, bacon, toast and home fries"
+        },
+        "poutineItalienne": {
+          "name": "Italian poutine",
+          "blurb": "Topped with our house meat sauce.",
+          "alt": "Italian poutine topped with house meat sauce at Casse-Croûte chez Mimi"
+        },
+        "menuDuJour": {
+          "name": "Daily special",
+          "blurb": "Soup, main and dessert, Monday to Friday.",
+          "alt": "Daily special at Casse-Croûte chez Mimi: homemade soup and a hot main of the week"
+        },
+        "fritesMaison": {
+          "name": "Homemade fries",
+          "blurb": "Cut here, fried golden.",
+          "alt": "Golden homemade fries cut on site at Casse-Croûte chez Mimi"
+        }
+      }
+    },
+    "reviews": {
+      "eyebrow": "Locals are talking",
+      "heading": "What our customers say",
+      "rating": "{rating} out of 5",
+      "count": "{count} Google reviews",
+      "source": "Google review",
+      "localGuide": "Local Guide",
+      "listLabel": "Customer reviews",
+      "seeAll": "Read all reviews on Google",
+      "ctaHeading": "Feeling hungry?",
+      "ctaBody": "Call to order {delivery, select, yes {takeout or delivery} other {takeout}}. We'll take care of the rest.",
+      "ctaButton": "Call"
+    },
+    "findUs": {
+      "eyebrow": "Come see us",
+      "heading": "Find us",
+      "hoursLabel": "Opening hours",
+      "slipTitle": "Guest check",
+      "slipNumber": "No. 0319",
+      "slipServer": "Server: Mimi",
+      "today": "Today",
+      "openNow": "Open now",
+      "closedNow": "Closed now",
+      "closed": "Closed",
+      "hoursTbc": "Hours to be confirmed — please call before you drop by.",
+      "slipThanks": "Thanks — see you next time!",
+      "locationLabel": "Address",
+      "neighbourhood": "Robertsonville area",
+      "directions": "Directions",
+      "mapTitle": "Map: Casse-Croûte chez Mimi, 3421 Boul. Frontenac E, Thetford Mines",
+      "callLabel": "To order",
+      "callBody": "{delivery, select, yes {Dine-in, takeout and delivery} other {Dine-in and takeout}}",
+      "callCta": "Call",
+      "callNote": "No online ordering — just give us a ring."
+    }
+  },
+  "menuPage": {
+    "metaTitle": "Menu – poutine & breakfast",
+    "metaDescription": "The menu at Casse-Croûte chez Mimi in Thetford Mines: breakfast, poutine, daily specials and lobster rolls. Order at (418) 338-0319.",
+    "eyebrow": "Homemade in Robertsonville",
+    "heading": "Our menu",
+    "subheading": "Breakfast, poutine, daily specials and lobster rolls. To order, just give us a call.",
+    "categoriesLabel": "Menu categories",
+    "placeholderNote": "Menu and prices are indicative. Call us for today's prices.",
+    "disclaimer": "Prices may change without notice. Taxes extra.",
+    "ctaHeading": "Ready to order?",
+    "ctaBody": "No online ordering here — give us a call and we'll get it ready {delivery, select, yes {for takeout or delivery} other {for takeout}}.",
+    "ctaButton": "Call"
+  },
+  "marquee": {
+    "pause": "Pause scrolling",
+    "play": "Resume scrolling"
+  },
+  "footer": {
+    "tagline": "Poutine, breakfast and good cheer in the heart of Robertsonville.",
+    "explore": "Explore",
+    "hours": "Hours",
+    "findUs": "Find us",
+    "directions": "Directions →",
+    "builtBy": "Crafted with care by"
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "eyebrow": "Error 404",
+    "heading": "Oops! This page ran off with the fries.",
+    "body": "The page you're looking for doesn't exist or has moved. The poutine, though, is right where it's always been.",
+    "home": "Back to home",
+    "menu": "See the menu",
+    "call": "Call"
+  }
+}
